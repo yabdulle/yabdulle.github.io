@@ -1,9 +1,22 @@
-main:
+Main:
 
-- title: Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?
-  authors: Samuel D J Spears, Yusuf F Abdulle, Dionisios Korovilas, Ryo Torii, Deepak M Kalaskar, Nikhil Sharma
-  pdf: https://www.i-jmr.org/2023/1/e43274/PDF
-  image: ./assets/img/teaser_example_1.png
+  - Title: Continual Learning For Abdominal Multi-Organ And Tumor Segmentation
+    Authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <Strong>Yaoyao Liu*</Strong>, Zongwei Zhou* (*Corresponding Authors)
+    Conference_short: MICCAI
+    Conference: International Conference On Medical Image Computing And Computer-Assisted Intervention <Strong>(MICCAI)</Strong>, 2023.
+    Pdf: Https://Arxiv.Org/Pdf/2306.00988.Pdf
+    Code: Https://Github.Com/MrGiovanni/ContinualLearning
+    Bibtex: Https://Bib.Yliu.Me/MICCAI23.Txt
+    Image: ./Assets/Img/Teaser_example_2.Png
+    Notes: Early Accept
 
-
-
+  - Title: "Mnemonics Training: Multi-Class Incremental Learning Without Forgetting"
+    Authors: <Strong>Yaoyao Liu</Strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    Conference_short: CVPR
+    Conference: IEEE/CVF Conference On Computer Vision And Pattern Recognition <Strong>(CVPR)</Strong>, 2020.
+    Pdf: Https://Arxiv.Org/Pdf/2002.10211.Pdf
+    Code: Https://Github.Com/Yaoyao-Liu/Class-Incremental-Learning/Tree/Main/Mnemonics-Training
+    Page: Https://Class-Il.Mpi-Inf.Mpg.De/Mnemonics/
+    Bibtex: Https://Class-Il.Mpi-Inf.Mpg.De/Mnemonics/
+    Notes: Oral Presentation
+    Image: ./Assets/Img/Teaser_example.Png

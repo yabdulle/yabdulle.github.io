@@ -1,13 +1,13 @@
 Main:
 
-  - Title: Continual Learning For Abdominal Multi-Organ And Tumor Segmentation
-    Authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <Strong>Yaoyao Liu*</Strong>, Zongwei Zhou* (*Corresponding Authors)
-    Conference_short: MICCAI
-    Conference: International Conference On Medical Image Computing And Computer-Assisted Intervention <Strong>(MICCAI)</Strong>, 2023.
-    Pdf: Https://Arxiv.Org/Pdf/2306.00988.Pdf
-    Code: Https://Github.Com/MrGiovanni/ContinualLearning
-    Bibtex: Https://Bib.Yliu.Me/MICCAI23.Txt
-    Image: ./Assets/Img/Teaser_example_2.Png
-    Notes: Early Accept
+  - Title: Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?
+    Authors: Samuel D J Spears BSc, MSc, <strong> Yusuf F Abdulle BSc, MSc  </strong>, Dionisios Korovilas MSc, Ryo Torii PhD , Deepak M Kalaskar PhD, Nikhil Sharma, PhD 
+    Conference_short: 
+    Conference: 
+    Pdf: https://discovery.ucl.ac.uk/id/eprint/10166596/1/PDF.pdf
+    Code: 
+    Bibtex: 
+    Image: ./Assets/Img/Teaser_example.Png
+    Notes: 
 
 

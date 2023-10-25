@@ -10,13 +10,4 @@ Main:
     Image: ./Assets/Img/Teaser_example_2.Png
     Notes: Early Accept
 
-  - Title: "Mnemonics Training: Multi-Class Incremental Learning Without Forgetting"
-    Authors: <Strong>Yaoyao Liu</Strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    Conference_short: CVPR
-    Conference: IEEE/CVF Conference On Computer Vision And Pattern Recognition <Strong>(CVPR)</Strong>, 2020.
-    Pdf: Https://Arxiv.Org/Pdf/2002.10211.Pdf
-    Code: Https://Github.Com/Yaoyao-Liu/Class-Incremental-Learning/Tree/Main/Mnemonics-Training
-    Page: Https://Class-Il.Mpi-Inf.Mpg.De/Mnemonics/
-    Bibtex: Https://Class-Il.Mpi-Inf.Mpg.De/Mnemonics/
-    Notes: Oral Presentation
-    Image: ./Assets/Img/Teaser_example.Png
+

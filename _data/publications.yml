@@ -1,10 +1,10 @@
 main:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?"
+    authors: Samuel D J Spears, <strong>Yusuf F Abdulle</strong>, Dionisios Korovilas, Ryo Torii, Deepak M Kalaskar, Nikhil Sharma.
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://discovery.ucl.ac.uk/id/eprint/10166596/1/PDF.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/

@@ -6,7 +6,7 @@ layout: homepage
 
 Hey there, welcome! I'm currently a Research Assistant at the Institute of Health Informatics, University College London, where I am part of the [KnowLab](https://knowlab.github.io/), a research group that works on AI in Healthcare.
 
-Prior to this role, I served as a Data Scientist at a TechBio startup and as a Research Assistant at the Institute of Neurology. My educational background includes a Master's degree in Clinical Neuroscience from University College London and a Bachelor's degree with First Class Honours in Biomedical Science from the University of Brighton.
+Prior to this role, I served as a Data Scientist at a TechBio startup and as a Research Assistant at the UCL Institute of Neurology. My educational background includes a Master's degree in Clinical Neuroscience from University College London and a Bachelor's degree with First Class Honours in Biomedical Science from the University of Brighton.
 
 ## Research Interests
 

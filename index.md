@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 ## About Me
+---
 
 Hey there, welcome! I'm currently a Research Assistant at the Institute of Health Informatics, University College London, where I am part of the [KnowLab](https://knowlab.github.io/), a research group that works on AI in Healthcare.
 

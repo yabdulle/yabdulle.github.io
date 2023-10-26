@@ -2,8 +2,6 @@ main:
 
   - title: "Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?"
     authors: Samuel D J Spears, <strong>Yusuf F Abdulle</strong>, Dionisios Korovilas, Ryo Torii, Deepak M Kalaskar, Nikhil Sharma.
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://discovery.ucl.ac.uk/id/eprint/10166596/1/PDF.pdf
     notes: Paper
     image: ./assets/img/teaser_example.png

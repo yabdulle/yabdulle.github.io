@@ -21,5 +21,6 @@ My research interests are at the intersection of health and data science, partic
 - **[March 2023]** - Paper titled ["Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?"](https://pubmed.ncbi.nlm.nih.gov/36917160/) is published in JMIR Rehabilitation and Assistive Technologies.
 
 {% include_relative _includes/publications.md %}
+---
 
 {% include_relative _includes/services.md %}

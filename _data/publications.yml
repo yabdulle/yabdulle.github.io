@@ -1,9 +1,14 @@
 Main:
 
-  - Title: Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?
-    Authors: Samuel D J Spears BSc, MSc, <strong> Yusuf F Abdulle BSc, MSc  </strong>, Dionisios Korovilas MSc, Ryo Torii PhD , Deepak M Kalaskar PhD, Nikhil Sharma, PhD 
-    Pdf: https://discovery.ucl.ac.uk/id/eprint/10166596/1/PDF.pdf
-    Image: ./Assets/Img/Teaser_example.Png
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
 
 

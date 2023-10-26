@@ -23,4 +23,4 @@ My research interests are at the intersection of health and data science, partic
 {% include_relative _includes/publications.md %}
 ---
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/projects.md %}

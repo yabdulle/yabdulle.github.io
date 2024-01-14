@@ -17,7 +17,8 @@ My research interests are at the intersection of health and data science, partic
 
 ## News
 ---
-- **[Sep 2023]** - Joined KnowLab @ UCL Institute of Health Informatics to work on KGs and GNNs.
+- **[December 2023]** - Two papers, titled ["Scoping review of knowledge graph applications in biomedical and healthcare sciences"](https://www.medrxiv.org/content/10.1101/2023.12.13.23299844v1) & ["Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest"](https://arxiv.org/abs/2312.12989) are released on preprint!
+- **[Sep 2023]** - Joined KnowLab @ UCL Institute of Health Informatics as a Research Assistant, to work on Knowledge Graphs, GNNs and supervision of students and interns. 
 - **[March 2023]** - Paper titled ["Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?"](https://pubmed.ncbi.nlm.nih.gov/36917160/) is published in JMIR Rehabilitation and Assistive Technologies.
 
 {% include_relative _includes/publications.md %}

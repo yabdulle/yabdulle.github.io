@@ -17,8 +17,9 @@ My research interests are at the intersection of health and data science, partic
 
 ## News
 ---
+- **[January 2024]** - Paper titled ["Understanding neck collar preferences and user experiences in motor neuron disease: A survey-based study"](https://www.sciencedirect.com/science/article/abs/pii/S1936657424000074?via%3Dihub) is released.
 - **[December 2023]** - Two papers, titled ["Scoping review of knowledge graph applications in biomedical and healthcare sciences"](https://www.medrxiv.org/content/10.1101/2023.12.13.23299844v1) & ["Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest"](https://arxiv.org/abs/2312.12989) are released on preprint!
-- **[Sep 2023]** - Joined KnowLab @ UCL Institute of Health Informatics as a Research Assistant, to work on Knowledge Graphs, GNNs and supervision of students and interns.
+- **[Sep 2023]** - Joined [KnowLab](https://knowlab.github.io/) @ UCL Institute of Health Informatics as a Research Assistant, to work on Knowledge Graphs, GNNs and supervision of students and interns.
 - **[June 2023]** - Participated in poster presentation to the 2nd Symposium on Knowledge Graphs, run by the Alan Turing Knowledge Graph Interest Group on work titled  ["Scoping review of knowledge graph applications in biomedical and healthcare sciences"](https://drive.google.com/file/d/1I1SHUo0CWeGzK3u9HmMitQOEsaD3ngX8/view). 
 - **[March 2023]** - Paper titled ["Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?"](https://pubmed.ncbi.nlm.nih.gov/36917160/) is published in JMIR Rehabilitation and Assistive Technologies.
 

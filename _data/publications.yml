@@ -1,5 +1,11 @@
 main:
 
+  - title: "Understanding neck collar preferences and user experiences in motor neuron disease: A survey-based study"
+    authors: Samuel D.J. Spears, Yusuf F. Abdulle, Thomas Lester, Ryo Torii, Deepak M. Kalaskar, Nikhil Sharma.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1936657424000074?via%3Dihub
+    notes: Paper
+    image: 
+    
   - title: "Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest?"
     authors: Emily Groves, Minhong Wang, <strong>Yusuf Abdulle</strong>, Holger Kunz, Jason Hoelscher-Obermaier, Ronin Wu, Honghan Wu.
     pdf: https://arxiv.org/pdf/2312.12989.pdf

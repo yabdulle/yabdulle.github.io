@@ -1,5 +1,11 @@
 main:
 
+  - title: "Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns"
+    authors: Yunsoo Kim, Jinge Wu, <strong>Yusuf Abdulle</strong>, Honghan Wu.
+    pdf: https://arxiv.org/pdf/2404.02370v1.pdf
+    notes: Paper
+    image: ./assets/img/xray.png
+    
   - title: "Understanding neck collar preferences and user experiences in motor neuron disease: A survey-based study"
     authors: Samuel D.J. Spears, <strong>Yusuf Abdulle</strong>, Thomas Lester, Ryo Torii, Deepak M. Kalaskar, Nikhil Sharma.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S1936657424000074?via%3Dihub

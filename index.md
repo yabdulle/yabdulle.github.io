@@ -17,6 +17,7 @@ My research interests are at the intersection of health and data science, partic
 
 ## News
 ---
+- **[April 2024]** - Preprint titled ["Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns"](https://arxiv.org/abs/2404.02370v1) is released.
 - **[January 2024]** - Paper titled ["Understanding neck collar preferences and user experiences in motor neuron disease: A survey-based study"](https://www.sciencedirect.com/science/article/abs/pii/S1936657424000074?via%3Dihub) is released.
 - **[December 2023]** - Two papers, titled ["Scoping review of knowledge graph applications in biomedical and healthcare sciences"](https://www.medrxiv.org/content/10.1101/2023.12.13.23299844v1) & ["Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest"](https://arxiv.org/abs/2312.12989) are released on preprint!
 - **[Sep 2023]** - Joined [KnowLab](https://knowlab.github.io/) @ UCL Institute of Health Informatics as a Research Assistant, to work on Knowledge Graphs, GNNs and supervision of students and interns.

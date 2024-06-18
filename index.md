@@ -6,14 +6,18 @@ layout: homepage
 ---
 Hey there, welcome! I'm currently a Research Assistant at the Institute of Health Informatics, University College London, where I am part of the [KnowLab](https://knowlab.github.io/), a research group that works on AI in Healthcare.
 
-Prior to this role, I served as a Data Scientist at a TechBio startup, Research Assistant @ UCL Institute of Neurology and as a Clinical Research Assistant working on the COVID-19 vaccine trials @ the Royal Free NHS Foundation Trust. My educational background includes a Master's degree in Clinical Neuroscience from University College London and a Bachelor's degree with First Class Honours in Biomedical Science from the University of Brighton.
 
 ## Research Interests
 ---
-My research interests are at the intersection of health and data science, particularly in deep learning techniques. Currently, my work is focused on these following areas:
+Primary Research Area:
+- I'm working on using Knowledge Graphs and Graph Machine Learning for early diagnosis and of rare neurodegenerative diseases.
 
-* Exploring the application of Knowledge Graphs and Graph Neural Networks in rare neurodegenerative disease diagnosis and prognosis.
-* Conducting a systematic review on "[Peripheral and CSF inflammatory markers in individuals with ALS and FTD](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=212528)"
+
+Other Research Areas:
+- 💻 Enhancing Human-Computer Interaction in Medical Imaging: Explored methods for improving chest X-ray analysis by incorporating vision and language models with eye gaze patterns.
+- 🧠 User Experience and Assistive Technologies in Neurodegenerative Diseases: Investigated neck collar preferences and user experiences in motor neuron disease through a survey-based study. Explored the suitability of current outcome measures for neck collars in motor neuron disease.
+- 📊 Biomedical Knowledge Curation: Worked on a scoping review to explore the applications of knowledge graphs in biomedical and healthcare sciences. Worked on research benchmarking and analyzing in-context learning, fine-tuning, and supervised learning for biomedical knowledge curation, with a focus on chemical entities of biological interest (CHeBI). 
+-  📖 Assiting on a systematic review on "[Peripheral and CSF inflammatory markers in individuals with ALS and FTD](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=212528)"
 
 ## News
 ---

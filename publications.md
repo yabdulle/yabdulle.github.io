@@ -1,37 +1,15 @@
   ## Publications
-  
-  - title: "Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns"
-    authors: Yunsoo Kim, Jinge Wu, <strong>Yusuf Abdulle</strong>, Honghan Wu.
-    pdf: https://arxiv.org/pdf/2404.02370v1.pdf
-    notes: Paper
-    image: ./assets/img/xray.png
 
-  - title: "Human-in-the-Loop Chest X-Ray Diagnosis: Enhancing Large Multimodal Models with Eye Fixation Inputs"
-    authors: Yunsoo Kim, Jinge Wu, <strong>Yusuf Abdulle</strong>, Yue Gao, Honghan Wu.
-    pdf: https://link.springer.com/content/pdf/10.1007/978-3-031-67751-9_6.pdf
-    notes: Conference Paper
-    image: ./assets/img/hitl.png 
-    
-  - title: "Understanding neck collar preferences and user experiences in motor neuron disease: A survey-based study"
-    authors: Samuel D.J. Spears, <strong>Yusuf Abdulle</strong>, Thomas Lester, Ryo Torii, Deepak M. Kalaskar, Nikhil Sharma.
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1936657424000074?via%3Dihub
-    notes: Paper
-    image: ./assets/img/nc_hold.png
-    
-  - title: "Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest?"
-    authors: Emily Groves, Minhong Wang, <strong>Yusuf Abdulle</strong>, Holger Kunz, Jason Hoelscher-Obermaier, Ronin Wu, Honghan Wu.
-    pdf: https://arxiv.org/pdf/2312.12989.pdf
-    notes: Paper
-    image: ./assets/img/benchmarking.png
+1. Spears, Samuel DJ; Abdulle, Yusuf F; Korovilas, Dionisios; Torii, Ryo; Kalaskar, Deepak M; Sharma, Nikhil; (2023). *Neck collar assessment for people living with motor neuron disease: Are current outcome measures suitable?*. *Interactive journal of medical research*, 12.0(1.0), e43274. JMIR Publications Inc., Toronto, Canada.
 
-  - title: "Scoping review of knowledge graph applications in biomedical and healthcare sciences"
-    authors: Sanjay Budhdeo, Joe Zhang, <strong>Yusuf Abdulle</strong>, Paul M Agapow, Douglas GJ McKechnie, Matt Archer, Viraj Shah, Eugenia Forte, Ayush Noori, Marinka Zitnik, Hutan Ashrafian, Nikhil Sharma
-    pdf: https://www.medrxiv.org/content/10.1101/2023.12.13.23299844v1.full.pdf
-    notes: Paper
-    image: ./assets/img/scoping.png
+2. Budhdeo, Sanjay; Zhang, Joe; Abdulle, Yusuf; Agapow, Paul M; McKechnie, Douglas GJ; Archer, Matt; Shah, Viraj; Forte, Eugenia; Noori, Ayush; Zitnik, Marinka; (2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences*. *medRxiv*, 2023.12.13.23299844. Cold Spring Harbor Laboratory Press.
 
-  - title: "Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?"
-    authors: Samuel D J Spears, <strong>Yusuf F Abdulle</strong>, Dionisios Korovilas, Ryo Torii, Deepak M Kalaskar, Nikhil Sharma.
-    pdf: https://discovery.ucl.ac.uk/id/eprint/10166596/1/PDF.pdf
-    notes: Paper
-    image: ./assets/img/teaser_example.png
+3. Groves, Emily; Wang, Minhong; Abdulle, Yusuf; Kunz, Holger; Hoelscher-Obermaier, Jason; Wu, Ronin; Wu, Honghan; (2023). *Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest*. *arXiv preprint arXiv:2312.12989*.
+
+4. Spears, Samuel DJ; Abdulle, Yusuf F; Lester, Thomas; Torii, Ryo; Kalaskar, Deepak M; Sharma, Nikhil; (2024). *Understanding neck collar preferences and user experiences in motor neuron disease: A survey-based study*. *Disability and Health Journal*, 101585. Elsevier.
+
+5. Kim, Yunsoo; Wu, Jinge; Abdulle, Yusuf; Gao, Yue; Wu, Honghan; (2024). *Enhancing human-computer interaction in chest x-ray analysis using vision and language model with eye gaze patterns*. *International Conference on Medical Image Computing and Computer-Assisted Intervention*, 184-194. Springer Nature Switzerland Cham.
+
+6. Kim, Yunsoo; Wu, Jinge; Abdulle, Yusuf; Wu, Honghan; (2024). *MedExQA: Medical Question Answering Benchmark with Multiple Explanations*. *arXiv preprint arXiv:2406.06331*.
+
+7. Kim, Yunsoo; Wu, Jinge; Abdulle, Yusuf; Gao, Yue; Wu, Honghan; (2024). *Human-in-the-Loop Chest X-Ray Diagnosis: Enhancing Large Multimodal Models with Eye Fixation Inputs*. *International Workshop on Trustworthy Artificial Intelligence for Healthcare*, 66-80. Springer Nature Switzerland Cham.

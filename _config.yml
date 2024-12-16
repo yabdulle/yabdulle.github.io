@@ -1,5 +1,5 @@
-title: Miri Liu
-url: "https://emmatliu.github.io"
+title: Yusuf Abdulle
+url: "https://yabdulle.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,8 @@ sass:
 nav:
  - name: "Home"
    link: "/"
- - name: "Personal"
-   link: "personal"
+ - name: "Publications"
+   link: "publications"
  - name: "CV"
    link: "CV.pdf"
  - name: "Contact"

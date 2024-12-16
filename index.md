@@ -6,28 +6,20 @@ layout: default
 
 <img class="profile-picture" src="images/yusuf.png">
 
-Hey there, welcome! I’m a PhD student in the Department of Biostatistics and Health Informatics, part of the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King’s College London.
+Hey there, welcome! I’m a PhD student in the Department of Biostatistics and Health Informatics, part of the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King’s College London, where I am advised by [Professor Richard Dobson](https://www.kcl.ac.uk/people/richard-dobson), [Dr Alfredo Iacoangeli](https://www.kcl.ac.uk/people/alfredo-iacoangeli), [Professor Honghan Wu](https://www.gla.ac.uk/schools/healthwellbeing/staff/honghanwu/), [Dr Chris Tomlinson](https://profiles.ucl.ac.uk/80245-chris-tomlinson) and [Dr Zhi Yao](https://uk.linkedin.com/in/zhi-yao-a8960412). 
+
+Previously, I've worked both across the academia, public healthcare and the start-up world. I completed my MSc in Clinical Neuroscience at the Institute of Neurology at University College London, and my BSc in Biomedical Science at the Univeristy of Brighton. 
 
 
 ## Research Interest
+My research focuses on the intersection of machine learning, health informatics, and neurodegenerative diseases. Specifically, I aim to use Electronic Health Records (EHRs) and multimodal data to model the onset and progression of Motor Neurone Disease (MND) / Amyotrophic Lateral Sclerosis (ALS). My work involves developing computational approaches that integrate diverse data types—including clinical records, imaging, and genetic data—to better understand disease trajectories. Broadly, my research seeks to contribute to the early detection, monitoring, and treatment of neurodegenerative diseases through data-driven insights.
 
-Primary Research Area:
-- My PhD thesis is focusing on the development and training of a multimodal AI model to predict individuals at risk of ALS/MND. 
+In the past, I have worked on a range of projects at the intersection of technology, healthcare, and user experience. This includes contributing to research on improving chest X-ray analysis by combining vision and language models with eye gaze patterns. I have also been part of a study exploring neck collar preferences and user experiences in motor neuron disease, looking at how well current outcome measures work for these devices. Additionally, I have worked on biomedical knowledge curation, including a scoping review on the use of knowledge graphs in healthcare and benchmarking approaches like in-context learning, fine-tuning, and supervised learning for curating chemical entities of biological interest (ChEBI).
 
-Other Research Areas:
-- 💻 Enhancing Human-Computer Interaction in Medical Imaging: Explored methods for improving chest X-ray analysis by incorporating vision and language models with eye gaze patterns.
-- 🧠 User Experience and Assistive Technologies in Neurodegenerative Diseases: Investigated neck collar preferences and user experiences in motor neuron disease through a survey-based study. Explored the suitability of current outcome measures for neck collars in motor neuron disease.
-- 📊 Biomedical Knowledge Curation: Worked on a scoping review to explore the applications of knowledge graphs in biomedical and healthcare sciences. Worked on research benchmarking and analyzing in-context learning, fine-tuning, and supervised learning for biomedical knowledge curation, with a focus on chemical entities of biological interest (CHeBI). 
 
 ## News
 ---
+- **[October 2024]** - Started on the  EPSRC Centre for Doctoral Training in Data-Driven Health (DRIVE-Health) Centre for Doctoral Training.
 - **[October 2024]** - Part of the organising team for the [Foundation Models For Medical Imaging (FOMMIA)](https://sites.google.com/view/miccai-2024-tutorial/home) tutorial at [MICCAI 2024](https://conferences.miccai.org/2024/en/). 
 - **[August 2024]** - Presented the work titled **"Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest"** at the [International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs ](https://seucoin.github.io/workshop/llmkg/)
-- **[April 2024]** - Preprint titled ["Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns"](https://arxiv.org/abs/2404.02370v1) is released.
-- **[January 2024]** - Paper titled ["Understanding neck collar preferences and user experiences in motor neuron disease: A survey-based study"](https://www.sciencedirect.com/science/article/abs/pii/S1936657424000074?via%3Dihub) is released.
-- **[December 2023]** - Two papers, titled ["Scoping review of knowledge graph applications in biomedical and healthcare sciences"](https://www.medrxiv.org/content/10.1101/2023.12.13.23299844v1) & ["Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest"](https://arxiv.org/abs/2312.12989) are released on preprint!
-- **[Sep 2023]** - Joined [KnowLab](https://knowlab.github.io/) @ UCL Institute of Health Informatics as a Research Assistant, to work on Knowledge Graphs, GNNs and supervision of students and interns.
-- **[June 2023]** - Participated in poster presentation to the 2nd Symposium on Knowledge Graphs, run by the Alan Turing Knowledge Graph Interest Group on work titled  ["Scoping review of knowledge graph applications in biomedical and healthcare sciences"](https://drive.google.com/file/d/1I1SHUo0CWeGzK3u9HmMitQOEsaD3ngX8/view). 
-- **[March 2023]** - Paper titled ["Neck Collar Assessment for People Living With Motor Neuron Disease: Are Current Outcome Measures Suitable?"](https://pubmed.ncbi.nlm.nih.gov/36917160/) is published in JMIR Rehabilitation and Assistive Technologies.
-
 

@@ -19,7 +19,7 @@ In the past, I have worked on a range of projects at the intersection of technol
 
 ## News
 ---
-- **[October 2024]** - Awareded the DRIVE-Health studentship and started on the EPSRC Centre for Doctoral Training in Data-Driven Health (DRIVE-Health) Centre for Doctoral Training.
+- **[October 2024]** - Awarded the DRIVE-Health studentship and started on the EPSRC Centre for Doctoral Training in Data-Driven Health (DRIVE-Health) Centre for Doctoral Training.
 - **[October 2024]** - Part of the organising team for the [Foundation Models For Medical Imaging (FOMMIA)](https://sites.google.com/view/miccai-2024-tutorial/home) tutorial at [MICCAI 2024](https://conferences.miccai.org/2024/en/). 
 - **[August 2024]** - Presented the work titled **"Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest"** at the [International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs ](https://seucoin.github.io/workshop/llmkg/)
 

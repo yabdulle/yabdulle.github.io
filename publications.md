@@ -1,4 +1,4 @@
-  ## Publications
+## Publications
 
 1. Spears, Samuel DJ; Abdulle, Yusuf F; Korovilas, Dionisios; Torii, Ryo; Kalaskar, Deepak M; Sharma, Nikhil; (2023). *Neck collar assessment for people living with motor neuron disease: Are current outcome measures suitable?*. *Interactive journal of medical research*, 12.0(1.0), e43274. JMIR Publications Inc., Toronto, Canada.
 

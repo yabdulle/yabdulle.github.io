@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="yusuf.png">
+<img class="profile-picture" src="images/yusuf.png">
 
 Hey there, welcome! I’m a PhD student in the Department of Biostatistics and Health Informatics, part of the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King’s College London.
 

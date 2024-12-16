@@ -19,6 +19,8 @@ nav:
    link: "/"
  - name: "Publications"
    link: "publications"
+ - name: "Teaching"
+   link: "ta"
  - name: "CV"
    link: "CV.pdf"
  - name: "Contact"

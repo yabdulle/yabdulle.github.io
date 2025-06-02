@@ -1,6 +1,6 @@
 ## Publications and Preprints
 
-### Journal Papers 
+### Journal Papers
 1. Spears, Samuel DJ; *Abdulle, Yusuf F*; Lester, Thomas; Torii, Ryo; Kalaskar, Deepak M; Sharma, Nikhil; (2024). *Understanding neck collar preferences and user experiences in motor neuron disease: A survey-based study*. *Disability and Health Journal*, 101585. Elsevier.
 
 2. Spears, Samuel DJ; *Abdulle, Yusuf F*; Korovilas, Dionisios; Torii, Ryo; Kalaskar, Deepak M; Sharma, Nikhil; (2023). *Neck collar assessment for people living with motor neuron disease: Are current outcome measures suitable?*. *Interactive journal of medical research*, 12.0(1.0), e43274. JMIR Publications Inc., Toronto, Canada.

@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="images/yusuf.png">
 
-Hey there, welcome! I’m a PhD student in the Department of Biostatistics and Health Informatics, part of the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King’s College London, where I am advised by [Professor Richard Dobson](https://www.kcl.ac.uk/people/richard-dobson), [Dr Alfredo Iacoangeli](https://www.kcl.ac.uk/people/alfredo-iacoangeli), [Professor Honghan Wu](https://www.gla.ac.uk/schools/healthwellbeing/staff/honghanwu/), [Dr Chris Tomlinson](https://profiles.ucl.ac.uk/80245-chris-tomlinson) and [Dr Zhi Yao](https://uk.linkedin.com/in/zhi-yao-a8960412). 
+Hey there, welcome! I’m a PhD student in the Department of Biostatistics and Health Informatics, part of the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King’s College London, where I am advised by [Professor Richard Dobson](https://www.kcl.ac.uk/people/richard-dobson), [Professor Alfredo Iacoangeli](https://www.kcl.ac.uk/people/alfredo-iacoangeli), [Professor Honghan Wu](https://www.gla.ac.uk/schools/healthwellbeing/staff/honghanwu/), [Dr Chris Tomlinson](https://profiles.ucl.ac.uk/80245-chris-tomlinson) and [Dr Zhi Yao](https://uk.linkedin.com/in/zhi-yao-a8960412). 
 
 Previously, I've worked both across the academia, public healthcare and the start-up world. I completed my MSc in Clinical Neuroscience at the Institute of Neurology at University College London, and my BSc in Biomedical Science at the Univeristy of Brighton. 
 

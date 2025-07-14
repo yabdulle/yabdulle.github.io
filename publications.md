@@ -19,7 +19,7 @@
 
 
 ### Preprints
-1. 1. *Abdulle Y^*, Wu J^, Budhdeo S, Kim Y, Shen J, Sun E, et al. Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association. medRxiv. 2025 Jan 1;2025.07.01.25330428. 
+1. *Abdulle Y^*, Wu J, Budhdeo S, Kim Y, Shen J, Sun E, et al. Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association. medRxiv. 2025 Jan 1;2025.07.01.25330428. 
 
 2. Kim, Yunsoo; *Abdulle, Yusuf*; Wu, Honghan; (2025). *BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain*. *arXiv preprint arXiv:2505.22240*.
 

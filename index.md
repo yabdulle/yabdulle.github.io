@@ -18,6 +18,7 @@ In the past, I have worked on a range of projects at the intersection of technol
 
 
 ## News
+- **[July 2025]** - The work titled **"Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association"** was preprinted to [MedRixv](https://www.medrxiv.org/content/10.1101/2025.07.01.25330428v1)
 - **[May 2025]** - The work titled **"BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain"** was accepted into [ACL Findings](https://2025.aclweb.org/program/find_papers/)
 - **[April 2025]** - The work titled **"Can GPT-4 be a good red flagger for MND? A comparative study on 67M adults in England"** was accepted as a poster and lightning talk at [HealTAC 2025](https://healtac2025.github.io/)
 - **[April 2025]** - The work titled **"Early ALS phenotyping and COVID-19 Survival Analysis Using EHR Data from 67M People in England"** was accepted as a poster at [ENCALS 2025](https://encals.eu/)

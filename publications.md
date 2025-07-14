@@ -19,10 +19,12 @@
 
 
 ### Preprints
-1. Kim, Yunsoo; *Abdulle, Yusuf*; Wu, Honghan; (2025). *BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain*. *arXiv preprint arXiv:2505.22240*.
+1. 1. *Abdulle Y^*, Wu J^, Budhdeo S, Kim Y, Shen J, Sun E, et al. Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association. medRxiv. 2025 Jan 1;2025.07.01.25330428. 
 
-2. Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Wu, Honghan; (2024). *MedExQA: Medical Question Answering Benchmark with Multiple Explanations*. *arXiv preprint arXiv:2406.06331*.
+2. Kim, Yunsoo; *Abdulle, Yusuf*; Wu, Honghan; (2025). *BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain*. *arXiv preprint arXiv:2505.22240*.
 
-3. Groves, Emily; Wang, Minhong; *Abdulle, Yusuf*; Kunz, Holger; Hoelscher-Obermaier, Jason; Wu, Ronin; Wu, Honghan; (2023). *Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest*. *arXiv preprint arXiv:2312.12989*.
+3. Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Wu, Honghan; (2024). *MedExQA: Medical Question Answering Benchmark with Multiple Explanations*. *arXiv preprint arXiv:2406.06331*.
 
-4. Budhdeo, Sanjay; Zhang, Joe; *Abdulle, Yusuf*; Agapow, Paul M; McKechnie, Douglas GJ; Archer, Matt; Shah, Viraj; Forte, Eugenia; Noori, Ayush; Zitnik, Marinka; (2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences*. *medRxiv*, 2023.12.13.23299844. Cold Spring Harbor Laboratory Press.
+4. Groves, Emily; Wang, Minhong; *Abdulle, Yusuf*; Kunz, Holger; Hoelscher-Obermaier, Jason; Wu, Ronin; Wu, Honghan; (2023). *Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest*. *arXiv preprint arXiv:2312.12989*.
+
+5. Budhdeo, Sanjay; Zhang, Joe; *Abdulle, Yusuf*; Agapow, Paul M; McKechnie, Douglas GJ; Archer, Matt; Shah, Viraj; Forte, Eugenia; Noori, Ayush; Zitnik, Marinka; (2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences*. *medRxiv*, 2023.12.13.23299844. Cold Spring Harbor Laboratory Press.

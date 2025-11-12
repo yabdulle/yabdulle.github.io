@@ -3,7 +3,7 @@
 ### Under Review:
 1. *Abdulle Y^*, Wu J^, Budhdeo S, Kim Y, Shen J, Sun E, et al. Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association. medRxiv. 2025 Jan 1;2025.07.01.25330428. 
 
-2. 3. Budhdeo, Sanjay; Zhang, Joe; *Abdulle, Yusuf*; Agapow, Paul M; McKechnie, Douglas GJ; Archer, Matt; Shah, Viraj; Forte, Eugenia; Noori, Ayush; Zitnik, Marinka; (2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences* [version 1; peer review: 2 approved with reservations]. Wellcome Open Res 2025, 10:66 (https://doi.org/10.12688/wellcomeopenres.23599.1)
+2. Budhdeo, Sanjay; Zhang, Joe; *Abdulle, Yusuf*; Agapow, Paul M; McKechnie, Douglas GJ; Archer, Matt; Shah, Viraj; Forte, Eugenia; Noori, Ayush; Zitnik, Marinka; (2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences* [version 1; peer review: 2 approved with reservations]. Wellcome Open Res 2025, 10:66 (https://doi.org/10.12688/wellcomeopenres.23599.1)
 
 
 ### Journal Papers

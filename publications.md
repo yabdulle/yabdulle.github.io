@@ -18,16 +18,14 @@
 
 2.  Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Wu, Honghan; (2024). *"MedExQA: Medical Question Answering Benchmark with Multiple Explanations."* *Proceedings of the 23rd Workshop on Biomedical Natural Language Processing*. 2024.
 
-1. Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Gao, Yue; Wu, Honghan; (2024). *Human-in-the-Loop Chest X-Ray Diagnosis: Enhancing Large Multimodal Models with Eye Fixation Inputs*. *International Workshop on Trustworthy Artificial Intelligence for Healthcare*, 66-80. Springer Nature Switzerland Cham.
+3. Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Gao, Yue; Wu, Honghan; (2024). *Human-in-the-Loop Chest X-Ray Diagnosis: Enhancing Large Multimodal Models with Eye Fixation Inputs*. *International Workshop on Trustworthy Artificial Intelligence for Healthcare*, 66-80. Springer Nature Switzerland Cham.
 
-2. Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Gao, Yue; Wu, Honghan; (2024). *Enhancing human-computer interaction in chest x-ray analysis using vision and language model with eye gaze patterns*. *International Conference on Medical Image Computing and Computer-Assisted Intervention*, 184-194. Springer Nature Switzerland Cham.
+4. Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Gao, Yue; Wu, Honghan; (2024). *Enhancing human-computer interaction in chest x-ray analysis using vision and language model with eye gaze patterns*. *International Conference on Medical Image Computing and Computer-Assisted Intervention*, 184-194. Springer Nature Switzerland Cham.
 
-3. Groves, Emily; Wang, Minhong; *Abdulle, Yusuf*; Kunz, Holger; Hoelscher-Obermaier, Jason; Wu, Ronin; Wu, Honghan; (2023). *Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest*. LLM+KG@VLDB’24. 
+5. Groves, Emily; Wang, Minhong; *Abdulle, Yusuf*; Kunz, Holger; Hoelscher-Obermaier, Jason; Wu, Ronin; Wu, Honghan; (2023). *Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest*. Proceedings of the VLDB Endowment. ISSN 2150: 8097
 
-4. Groves, Emily; Wang, Minhong; *Abdulle, Yusuf*; Kunz, Holger; Hoelscher-Obermaier, Jason; Wu, Ronin; Wu, Honghan; (2023). *Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest*. *LLM+KG: 1st International Workshop on Data Management Opportunities in Unifying Large Language Models + Knowledge Graphs*
+6. Budhdeo, S; *Abdulle Y,*; Sharma, N; Cosco, T (2023); *Meta-analysis of cerebrospinal fluid immune markers in frontotemporal dementia patients compared to healthy controls*. European Journal of Neurology.
 
-5. Budhdeo, S; *Abdulle Y,*; Sharma, N; Cosco, T (2023); *Meta-analysis of cerebrospinal fluid immune markers in frontotemporal dementia patients compared to healthy controls*. European Journal of Neurology.
-
-6. Budhdeo, S; *Abdulle Y*,; Kaczmarczyk, I; Sharma, N (2023); *Using a PET atlas to probe neurotransmitter-disease associations in Mild Cognitive Impairment and Alzheimer's disease*. European Journal of Neurology.
+7. Budhdeo, S; *Abdulle Y*,; Kaczmarczyk, I; Sharma, N (2023); *Using a PET atlas to probe neurotransmitter-disease associations in Mild Cognitive Impairment and Alzheimer's disease*. European Journal of Neurology.
 
 

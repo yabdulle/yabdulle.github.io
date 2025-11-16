@@ -13,10 +13,13 @@ body {
     margin: 0;
     font-family: "Inconsolata";
     height: 100%;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 a {
     text-decoration: none;
-    color: $accent;
+    color: var(--accent-color);
 }
 a:hover {
     text-decoration: underline;
@@ -24,8 +27,8 @@ a:hover {
 hr {
     border: 0;
     height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-top: 1px solid var(--hr-color-top);
+    border-bottom: 1px solid var(--hr-color-bottom);
 }
 
 /*
@@ -34,7 +37,7 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #272727;
+    color: var(--text-color);
     display: inline-block;
     font-weight: bold;
 }
@@ -126,7 +129,36 @@ hr {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+	.theme-toggle {
+		margin-left: 0;
+		margin-top: 5px;
+	}
 }
 
 @import "typography";
 @import "tables";
+
+/* Dark Mode Toggle Button */
+.theme-toggle {
+    background: none;
+    border: 2px solid var(--text-color);
+    color: var(--text-color);
+    cursor: pointer;
+    font-size: 20px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    font-family: "Inconsolata";
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.theme-toggle:hover {
+    background-color: var(--text-color);
+    color: var(--bg-color);
+}
+
+.theme-toggle:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--accent-color);
+}

@@ -1,6 +1,6 @@
 # Teaching, Talks and Tutorials
-## Upcoming:
-1. Tutorial on Multimodal Large Language Models for Healthcare - University of Glasgow. November 24th 2025, 
+## Talks:
+1. Characteristics and early diagnosis on MND in 67 million individuals in England - International Symposium for ALS/MND - December 6th 2025
 
 ## Teaching
 Graduate Teaching Assistant - Department of Biostatistics and Health Informatics, King's College London.
@@ -8,4 +8,4 @@ Graduate Teaching Assistant - Department of Biostatistics and Health Informatics
 2. 7PAVMALE - Machine Learning for Health and Bioinformatics, 2024 - 2025, 2025 - 2026
 
 ## Tutorials:
-1. Tutorial on Multimodal Large Language Models for Healthcare - University of Glasgow. November 24th 2025
+1. Tutorial on Multimodal Large Language Models for Healthcare - University of Glasgow - November 24th 2025

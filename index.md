@@ -16,7 +16,7 @@ My research focuses on the intersection of machine learning, health informatics,
 
 
 ## News
+- **[December 2025]** - Presented @ the International Symposium for ALS/MND on work titled: 
 - **[July 2025]** - The work titled **"Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association"** was preprinted to [MedRixv](https://www.medrxiv.org/content/10.1101/2025.07.01.25330428v1)
 - **[May 2025]** - The work titled **"BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain"** was accepted into [ACL Findings](https://2025.aclweb.org/program/find_papers/)
-- **[April 2025]** - The work titled **"Can GPT-4 be a good red flagger for MND? A comparative study on 67M adults in England"** was accepted as a poster and lightning talk at [HealTAC 2025](https://healtac2025.github.io/)
 

@@ -1,6 +1,7 @@
 # Teaching, Talks and Tutorials
 ## Talks:
 1. Characteristics and early diagnosis on MND in 67 million individuals in England - International Symposium for ALS/MND - December 6th 2025
+2. Knowledge graphs and LLMs in rare diseases - [AI meets Knowledge Graphs & Memory](https://luma.com/z5aztkqh) - April 14th 2026
 
 ## Teaching
 Graduate Teaching Assistant - Department of Biostatistics and Health Informatics, King's College London.

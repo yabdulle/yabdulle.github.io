@@ -17,7 +17,7 @@ My research focuses on the intersection of machine learning, health informatics,
 
 ## News
 - **[April 2026]** - Presented at [AI meets Knowledge Graphs & Memory](https://luma.com/z5aztkqh) on Knowledge graphs and LLMs in rare diseases
---**[January 2026]** - Featured in ALS-TDI [blogpost](https://www.als.net/news/2025-international-als-mnd-symposium/)
+- **[January 2026]** - Featured in ALS-TDI [blogpost](https://www.als.net/news/2025-international-als-mnd-symposium/)
 - **[December 2025]** - Presented @ the International Symposium for ALS/MND on work titled: "Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England"
 - **[July 2025]** - The work titled **"Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association"** was preprinted to [MedRixv](https://www.medrxiv.org/content/10.1101/2025.07.01.25330428v1)
 - **[May 2025]** - The work titled **"BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain"** was accepted into [ACL Findings](https://2025.aclweb.org/program/find_papers/)

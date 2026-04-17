@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /publications/
+---
+
 ## Publications and Preprints
 
 ### Under Review:

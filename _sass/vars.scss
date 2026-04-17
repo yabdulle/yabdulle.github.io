@@ -2,15 +2,15 @@
  * Customization Variables
  */
 
-$accent: #FF0F00;
+$accent: #034694;
 $image-size: 300px;
 
 /*
  * Build Variables, don't touch
  */
 
-$max-width: 700px;
-$med-width: 600px;
+$max-width: 840px;
+$med-width: 720px;
 $small-width: 480px;
 
 /*
@@ -18,27 +18,39 @@ $small-width: 480px;
  */
 
 :root {
-    --bg-color: #ffffff;
-    --text-color: #272727;
-    --accent-color: #FF0F00;
-    --hr-color-top: rgba(0, 0, 0, 0.1);
-    --hr-color-bottom: rgba(255, 255, 255, 0.3);
-    --blockquote-border: #333333;
-    --table-border: #cccccc;
-    --table-bg: #ffffff;
-    --table-bg-alt: #f8f8f8;
-    --footer-link-color: black;
+    --bg-color: #fbfaf7;
+    --text-color: #1f1f1f;
+    --muted-color: #6b6b6b;
+    --subtle-color: #9a9a9a;
+    --accent-color: #034694;
+    --accent-soft: rgba(3, 70, 148, 0.1);
+    --border-color: rgba(31, 31, 31, 0.08);
+    --hr-color-top: rgba(0, 0, 0, 0.06);
+    --hr-color-bottom: rgba(255, 255, 255, 0);
+    --blockquote-border: #d1cfc8;
+    --table-border: #e5e3dc;
+    --table-bg: transparent;
+    --table-bg-alt: rgba(0, 0, 0, 0.02);
+    --footer-link-color: #6b6b6b;
+    --card-bg: #ffffff;
+    --card-shadow: 0 1px 2px rgba(0, 0, 0, 0.04), 0 4px 12px rgba(0, 0, 0, 0.04);
 }
 
 [data-theme="dark"] {
-    --bg-color: #1a1a1a;
-    --text-color: #e0e0e0;
-    --accent-color: #ff4444;
-    --hr-color-top: rgba(255, 255, 255, 0.1);
-    --hr-color-bottom: rgba(0, 0, 0, 0.3);
-    --blockquote-border: #888888;
-    --table-border: #444444;
-    --table-bg: #2a2a2a;
-    --table-bg-alt: #333333;
-    --footer-link-color: #e0e0e0;
+    --bg-color: #111111;
+    --text-color: #ededed;
+    --muted-color: #9a9a9a;
+    --subtle-color: #6a6a6a;
+    --accent-color: #5a9cff;
+    --accent-soft: rgba(90, 156, 255, 0.14);
+    --border-color: rgba(255, 255, 255, 0.08);
+    --hr-color-top: rgba(255, 255, 255, 0.06);
+    --hr-color-bottom: rgba(0, 0, 0, 0);
+    --blockquote-border: #3a3a3a;
+    --table-border: #2a2a2a;
+    --table-bg: transparent;
+    --table-bg-alt: rgba(255, 255, 255, 0.02);
+    --footer-link-color: #9a9a9a;
+    --card-bg: #1a1a1a;
+    --card-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 4px 12px rgba(0, 0, 0, 0.2);
 }

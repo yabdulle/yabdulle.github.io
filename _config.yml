@@ -2,13 +2,10 @@ title: Yusuf Abdulle
 url: "https://yabdulle.github.io"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
 
 sass:
     style: compressed
@@ -18,10 +15,16 @@ nav:
  - name: "Home"
    link: "/"
  - name: "Publications"
-   link: "publications"
+   link: "/publications/"
  - name: "Teaching, Talks and Tutorials"
-   link: "ta"
+   link: "/ta/"
  - name: "CV"
-   link: "CV.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "/cv.pdf"
+
+social:
+ - name: "Email"
+   link: "mailto:yusuf.abdulle@kcl.ac.uk"
+ - name: "GitHub"
+   link: "https://github.com/yabdulle"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/yusufab/"

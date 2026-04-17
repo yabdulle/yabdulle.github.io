@@ -21,7 +21,12 @@
         {% assign url = site.url | append: site.baseurl | append: page.url %}
     {% endif %}
     <meta name="description" content="{{ desc }}">
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Fonts: Inter (body) + Instrument Serif (display) + JetBrains Mono (code) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     {% if site.favicon %}
@@ -53,7 +58,6 @@
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
     <script>
-        // Set theme immediately to prevent flash of unstyled content
         (function() {
             function getInitialTheme() {
                 const stored = localStorage.getItem('theme');
@@ -69,45 +73,55 @@
 </head>
 <body>
     <div class="wrapper">
-        <div class="navbar container">
-            {% if site.ins_logo %}
-                <img id="ins-logo" src="{{ site.ins_logo }}" />
+        <div class="container">
+            <header class="navbar">
+                {% if site.ins_logo %}
+                    <img id="ins-logo" src="{{ site.ins_logo }}" />
+                {% endif %}
+                <div class="navbar-top">
+                    <a id="author-name" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+                    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">☾</button>
+                </div>
+                <div class="navbar-bottom">
+                    <ul id="navlist" class="navbar-ul">
+                        {% for x in site.nav %}
+                            {% if x.name == "Resume" or x.name == "CV" %}
+                                <li class="nav-list"><a target="_blank" rel="noopener" href="{{ x.link }}">{{ x.name }}</a></li>
+                            {% else %}
+                                <li class="nav-list"><a href="{{ x.link }}">{{ x.name }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                    {% if site.social %}
+                        <ul class="social-ul">
+                            {% for s in site.social %}
+                                <li class="social-item">
+                                    {% if s.link contains "mailto:" %}
+                                        <a href="{{ s.link }}">{{ s.name }}</a>
+                                    {% else %}
+                                        <a target="_blank" rel="noopener" href="{{ s.link }}">{{ s.name }}</a>
+                                    {% endif %}
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                </div>
+            </header>
+            <hr class="nav-divider">
+            {% if page.is_contact == true %}
+                <main class="content contact">
+            {% else %}
+                <main class="content">
             {% endif %}
-            <div class="navbar-content">
-                <a id="author-name" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-                <ul id="navlist" class="navbar-ul">
-                    {% for x in site.nav %}
-                        {% if x.name == "Resume" %}
-                            <li class="nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
-                        {% else %}
-                            <li class="nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
-                        {% endif %}
-                        {% if forloop.last == false %}
-                            /
-                        {% endif %}
-                            </li>
-                    {% endfor %}
-                    <li class="nav-list">
-                        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <div style="clear:both"></div>
-        <hr>
-        {% if page.is_contact == true %}
-            <div class="container content contact">
-        {% else %}
-            <div class="container content">
-        {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
                     <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: var(--footer-link-color)"><small>{{ site.footer_text }}</small></a>
-                    </p>
+                    <div class="site-footer">
+                        <a href="{{ site.footer_url }}">{{ site.footer_text }}</a>
+                    </div>
                 {% endif %}
-            </div>
+            </main>
+        </div>
     </div>
     {% if site.tracking_id %}
         <script>
@@ -123,53 +137,44 @@
         (function() {
             const themeToggle = document.getElementById('theme-toggle');
             const htmlElement = document.documentElement;
-            
-            // Function to get theme preference
+
             function getThemePreference() {
-                // Check localStorage first
                 const stored = localStorage.getItem('theme');
                 if (stored) {
                     return stored;
                 }
-                // Check system preference
                 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
                     return 'dark';
                 }
                 return 'light';
             }
-            
-            // Function to set theme
+
             function setTheme(theme) {
                 if (theme === 'dark') {
                     htmlElement.setAttribute('data-theme', 'dark');
-                    if (themeToggle) themeToggle.textContent = '☀️';
+                    if (themeToggle) themeToggle.textContent = '☀';
                     localStorage.setItem('theme', 'dark');
                 } else {
                     htmlElement.setAttribute('data-theme', 'light');
-                    if (themeToggle) themeToggle.textContent = '🌙';
+                    if (themeToggle) themeToggle.textContent = '☾';
                     localStorage.setItem('theme', 'light');
                 }
             }
-            
-            // Function to toggle theme
+
             function toggleTheme() {
                 const currentTheme = htmlElement.getAttribute('data-theme');
                 setTheme(currentTheme === 'dark' ? 'light' : 'dark');
             }
-            
-            // Initialize theme on page load (update button icon based on current theme)
+
             const currentTheme = htmlElement.getAttribute('data-theme') || getThemePreference();
             setTheme(currentTheme);
-            
-            // Add click event listener
+
             if (themeToggle) {
                 themeToggle.addEventListener('click', toggleTheme);
             }
-            
-            // Listen for system theme changes
+
             if (window.matchMedia) {
                 const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-                // Only apply system preference if user hasn't manually set a preference
                 if (!localStorage.getItem('theme')) {
                     mediaQuery.addEventListener('change', (e) => {
                         setTheme(e.matches ? 'dark' : 'light');
@@ -179,5 +184,4 @@
         })();
     </script>
 </body>
-<footer>
-</footer>
+</html>

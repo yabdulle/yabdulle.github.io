@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /ta/
+---
+
 # Teaching, Talks and Tutorials
 ## Talks:
 1. Characteristics and early diagnosis on MND in 67 million individuals in England - International Symposium for ALS/MND - December 6th 2025

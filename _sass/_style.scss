@@ -4,31 +4,49 @@
  * Basic
  */
 
+* {
+    box-sizing: border-box;
+}
+
 html {
     height: 100%;
     margin: 0;
     padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
+
 body {
     margin: 0;
-    font-family: "Inconsolata";
-    height: 100%;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+    font-weight: 400;
+    letter-spacing: -0.005em;
+    min-height: 100%;
     background-color: var(--bg-color);
     color: var(--text-color);
-    transition: background-color 0.3s ease, color 0.3s ease;
+    transition: background-color 0.25s ease, color 0.25s ease;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
 }
+
 a {
     text-decoration: none;
     color: var(--accent-color);
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease, color 0.15s ease;
 }
+
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom-color: var(--accent-color);
 }
+
 hr {
     border: 0;
-    height: 0;
-    border-top: 1px solid var(--hr-color-top);
-    border-bottom: 1px solid var(--hr-color-bottom);
+    height: 1px;
+    background-color: var(--border-color);
+    margin: 32px 0;
 }
 
 /*
@@ -36,45 +54,111 @@ hr {
  */
 
 .navbar {
-    padding: 50px 0 50px 0;
-    text-align: center;
-}
-.navbar-content {
+    padding: 56px 0 24px 0;
     display: flex;
     flex-direction: column;
+    gap: 18px;
+}
+
+.navbar-top {
+    display: flex;
     align-items: center;
-    gap: 20px;
+    justify-content: space-between;
+    gap: 16px;
 }
+
+.navbar-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px 20px;
+}
+
 #author-name {
-    font-size: 30px;
+    font-family: "Instrument Serif", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-size: 44px;
+    line-height: 1;
     color: var(--text-color);
-    display: block;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 10px;
-    width: 100%;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    margin: 0;
+    border: none;
+    display: inline-block;
 }
+
+#author-name:hover {
+    border: none;
+    color: var(--accent-color);
+}
+
 .navbar-ul {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     align-items: center;
     margin: 0;
     padding: 0;
     list-style: none;
+    gap: 18px;
 }
+
 .nav-list {
     list-style-type: none;
-    margin: 0 5px;
-    display: inline-block;
+    margin: 0;
+    display: inline-flex;
+    align-items: center;
+    font-size: 14px;
 }
+
+.nav-list a {
+    color: var(--text-color);
+    padding: 0;
+    border-bottom: 1px solid transparent;
+    transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.nav-list a:hover {
+    color: var(--accent-color);
+    border-bottom-color: var(--accent-color);
+}
+
+.social-ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 16px;
+}
+
+.social-item {
+    list-style: none;
+    margin: 0;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+}
+
+.social-item a {
+    color: var(--muted-color);
+    border-bottom: 1px solid transparent;
+    transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.social-item a:hover {
+    color: var(--accent-color);
+    border-bottom-color: var(--accent-color);
+}
+
 .alignable {
     display: inline-block;
 }
+
 .pull-left {
     @extend .alignable;
     float: left;
 }
+
 .pull-right {
     @extend .alignable;
     float: right;
@@ -85,7 +169,9 @@ hr {
 .container {
     max-width: $max-width;
     margin: auto;
+    padding: 0 32px;
 }
+
 .wrapper {
     min-height: 100%;
 }
@@ -93,55 +179,58 @@ hr {
 /* Institute Image */
 
 #ins-logo {
-	margin: auto;
-	display: block;
-	max-height: 100px;
-	text-align: center;
+    margin: 0 0 16px 0;
+    display: block;
+    max-height: 60px;
+}
+
+/* Top divider under navbar */
+.nav-divider {
+    border: 0;
+    height: 1px;
+    background: var(--border-color);
+    margin: 0;
 }
 
 /* Mobile */
 
 @media (max-width: 800px) {
     .container {
-        max-width: $med-width;
-        transition: 0.3s ease all;
+        max-width: 100%;
     }
 }
 
 @media (max-width: 650px) {
-    .container {
-        max-width: 83%;
+    .navbar {
+        padding: 40px 0 18px 0;
+        gap: 14px;
+    }
+    #author-name {
+        font-size: 36px;
+    }
+    .navbar-bottom {
+        gap: 10px 16px;
     }
     .navbar-ul {
-        margin-top: 5px;
-        font-size: 14px;
+        gap: 14px;
+        font-size: 13.5px;
     }
-    .nav-list {
-        margin: 0 3px;
+    .social-ul {
+        gap: 14px;
     }
 }
 
 @media (max-width: 500px) {
-	.navbar {
-		text-align: center;
-		padding: 50px 0px 0px 0px;
-	}
-	#author-name {
-		font-size: 26px;
-	}
-	.navbar-ul {
-		font-size: 13px;
-		padding: 10px 0;
-	}
-	.nav-list {
-		margin: 0 2px;
-	}
-	.theme-toggle {
-		margin-left: 0;
-		margin-top: 5px;
-		font-size: 18px;
-		padding: 6px 10px;
-	}
+    .navbar {
+        padding: 32px 0 16px 0;
+    }
+    #author-name {
+        font-size: 32px;
+    }
+    .navbar-bottom {
+        flex-direction: column;
+        align-items: flex-start;
+    }
 }
 
 @import "typography";
@@ -150,24 +239,30 @@ hr {
 /* Dark Mode Toggle Button */
 .theme-toggle {
     background: none;
-    border: 2px solid var(--text-color);
-    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    color: var(--muted-color);
     cursor: pointer;
-    font-size: 20px;
-    padding: 8px 12px;
-    border-radius: 5px;
-    transition: all 0.3s ease;
-    font-family: "Inconsolata";
-    margin-left: 10px;
-    vertical-align: middle;
+    font-size: 14px;
+    padding: 0;
+    border-radius: 999px;
+    transition: all 0.2s ease;
+    font-family: inherit;
+    line-height: 1;
+    margin: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
 }
 
 .theme-toggle:hover {
-    background-color: var(--text-color);
-    color: var(--bg-color);
+    border-color: var(--accent-color);
+    color: var(--accent-color);
 }
 
 .theme-toggle:focus {
     outline: none;
-    box-shadow: 0 0 0 2px var(--accent-color);
+    box-shadow: 0 0 0 3px var(--accent-soft);
 }

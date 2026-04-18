@@ -6,9 +6,11 @@ permalink: /publications/
 ## Publications and Preprints
 
 ### Under Review:
-1. *Abdulle Y^*, Wu J^, Budhdeo S, Kim Y, Shen J, Sun E, et al. Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association. medRxiv. 2025 Jan 1;2025.07.01.25330428. 
+1. Dong, H., Vasu, R., *Abdulle, Y*., et al. “ A Large Language Model based Framework for Dementia Related Hypothesis Generation“ (2026)
 
-2. Budhdeo, Sanjay; Zhang, Joe; *Abdulle, Yusuf*; Agapow, Paul M; McKechnie, Douglas GJ; Archer, Matt; Shah, Viraj; Forte, Eugenia; Noori, Ayush; Zitnik, Marinka; (2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences* [version 1; peer review: 2 approved with reservations]. Wellcome Open Res 2025, 10:66 (https://doi.org/10.12688/wellcomeopenres.23599.1)
+2. *Abdulle Y^*, Wu J^, Budhdeo S, Kim Y, Shen J, Sun E, et al. Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association. medRxiv. 2025 Jan 1;2025.07.01.25330428. 
+
+3. Budhdeo, Sanjay; Zhang, Joe; *Abdulle, Yusuf*; Agapow, Paul M; McKechnie, Douglas GJ; Archer, Matt; Shah, Viraj; Forte, Eugenia; Noori, Ayush; Zitnik, Marinka; (2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences* [version 1; peer review: 2 approved with reservations]. Wellcome Open Res 2025, 10:66 (https://doi.org/10.12688/wellcomeopenres.23599.1)
 
 
 ### Journal Papers
@@ -17,11 +19,10 @@ permalink: /publications/
 2. Spears, Samuel DJ; *Abdulle, Yusuf F*; Korovilas, Dionisios; Torii, Ryo; Kalaskar, Deepak M; Sharma, Nikhil; (2023). *Neck collar assessment for people living with motor neuron disease: Are current outcome measures suitable?*. *Interactive journal of medical research*, 12.0(1.0), e43274. JMIR Publications Inc., Toronto, Canada.
 
 
-
 ### Conference Papers
 1. Yunsoo Kim, *Yusuf Abdulle*, and Honghan Wu. 2025. *BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain*. *In Findings of the Association for Computational Linguistics: ACL 2025, pages 12894–12908, Vienna, Austria. Association for Computational Linguistics.*
 
-2.  Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Wu, Honghan; (2024). *"MedExQA: Medical Question Answering Benchmark with Multiple Explanations."* *Proceedings of the 23rd Workshop on Biomedical Natural Language Processing*. 2024.
+2. Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Wu, Honghan; (2024). *"MedExQA: Medical Question Answering Benchmark with Multiple Explanations."* *Proceedings of the 23rd Workshop on Biomedical Natural Language Processing*. 2024.
 
 3. Kim, Yunsoo; Wu, Jinge; *Abdulle, Yusuf*; Gao, Yue; Wu, Honghan; (2024). *Human-in-the-Loop Chest X-Ray Diagnosis: Enhancing Large Multimodal Models with Eye Fixation Inputs*. *International Workshop on Trustworthy Artificial Intelligence for Healthcare*, 66-80. Springer Nature Switzerland Cham.
 

@@ -8,15 +8,13 @@ layout: default
 
 Hi — I'm Yusuf, a PhD student in the Department of Biostatistics and Health Informatics at the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King's College London. I'm part of the [EPSRC Centre for Doctoral Training in Data-Driven Health](https://www.drive-health.org.uk/), co-funded by [LifeArc](https://www.lifearc.org/), and supervised by [Prof. Richard Dobson](https://www.kcl.ac.uk/people/richard-dobson), [Prof. Alfredo Iacoangeli](https://www.kcl.ac.uk/people/alfredo-iacoangeli), [Prof. Honghan Wu](https://www.gla.ac.uk/schools/healthwellbeing/staff/honghanwu/), [Dr Chris Tomlinson](https://profiles.ucl.ac.uk/80245-chris-tomlinson) and [Dr Zhi Yao](https://uk.linkedin.com/in/zhi-yao-a8960412).
 
-Before this, I worked across academia, the NHS, and early-stage startups. I completed my MSc in Clinical Neuroscience at the UCL Institute of Neurology, and my BSc in Biomedical Science at the University of Brighton.
-
 ## Research
 
 I build machine-learning systems for **rare and neurodegenerative disease**, with a focus on **Motor Neuron Disease (MND / ALS)**. The central problem I work on is that rare diseases are where prediction matters most — early diagnosis, progression forecasting, subtype discovery — and also where patient cohorts are smallest, so standard ML tends to fail.
 
-My thesis develops an end-to-end pipeline that fuses multimodal electronic health records, biomedical knowledge graphs, genomics, and clinical foundation models to make prediction work in the small-cohort regime — applied to MND for early risk prediction, progression forecasting, and patient stratification.
+My thesis develops an end-to-end pipeline that fuses multimodal electronic health records, biomedical knowledge graphs, genomics, and clinical foundation models to make prediction work in the small-cohort regime, applied to MND for early risk prediction, progression forecasting, and patient stratification.
 
-More broadly, I'm interested in the methodology that makes small-cohort rare-disease AI trustworthy — knowledge-graph reasoning with LLMs, multimodal representation learning, uncertainty quantification, and honest evaluation when N is small.
+More broadly, I'm interested in the methodology that makes small-cohort rare-disease AI trustworthy: knowledge-graph reasoning with LLMs, multimodal representation learning and uncertainty quantification.
 
 ## News
 - **[April 2026]** - Presented at [AI meets Knowledge Graphs & Memory](https://luma.com/z5aztkqh) on knowledge graphs and LLMs in rare diseases.

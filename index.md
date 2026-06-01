@@ -10,13 +10,12 @@ Hi — I'm Yusuf, a PhD student in the Department of Biostatistics and Health In
 
 ## Research
 
-I build machine-learning systems for **rare and neurodegenerative disease**, with a focus on **Motor Neuron Disease (MND / ALS)**. The central problem I work on is that rare diseases are where prediction matters most — early diagnosis, progression forecasting, subtype discovery — and also where patient cohorts are smallest, so standard ML tends to fail.
+I build machine-learning systems for **rare and neurodegenerative disease**, with a focus on **Motor Neuron Disease (MND / ALS)**. The central problem I work on is that rare diseases are where prediction matters most, tasks such as early diagnosis, progression forecasting, subtype discovery, drug repurposing, and also where patient cohorts are smallest, so standard ML tends to fail.
 
-My thesis develops an end-to-end pipeline that fuses multimodal electronic health records, biomedical knowledge graphs, genomics, and clinical foundation models to make prediction work in the small-cohort regime, applied to MND for early risk prediction, progression forecasting, and patient stratification.
-
-More broadly, I'm interested in the methodology that makes small-cohort rare-disease AI trustworthy: knowledge-graph reasoning with LLMs, multimodal representation learning and uncertainty quantification.
+My thesis is aiming to develop an end-to-end pipeline that fuses multimodal electronic health records, biomedical knowledge graphs, genomics to be able to execute on all the aforementioned downstream tasks. More broadly, I'm interested in the methodology that makes small-cohort rare-disease AI trustworthy: knowledge-graph reasoning with LLMs, multimodal representation learning and drug repurposing/target identification.
 
 ## News
+- **[April 2026]** - Part of the ALS Precision Discovery Consortium team, which made it through to *Round 1* of the [**Longitude Prize for ALS**](https://als.longitudeprize.org/discovery-award-teams)
 - **[April 2026]** - Presented at [AI meets Knowledge Graphs & Memory](https://luma.com/z5aztkqh) on knowledge graphs and LLMs in rare diseases.
 - **[January 2026]** - Featured in an ALS-TDI [blog post](https://www.als.net/news/2025-international-als-mnd-symposium/).
 - **[December 2025]** - Presented at the International Symposium for ALS/MND: *"Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England"*.

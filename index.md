@@ -15,9 +15,9 @@ I build machine-learning systems for **rare and neurodegenerative disease**, wit
 My thesis is aiming to develop an end-to-end pipeline that fuses multimodal electronic health records, biomedical knowledge graphs, genomics to be able to execute on all the aforementioned downstream tasks. More broadly, I'm interested in the methodology that makes small-cohort rare-disease AI trustworthy: knowledge-graph reasoning with LLMs, multimodal representation learning and drug repurposing/target identification.
 
 ## News
-- **[April 2026]** - Part of the ALS Precision Discovery Consortium team, which made it through to *Round 1* of the [**Longitude Prize for ALS**](https://als.longitudeprize.org/discovery-award-teams)
-- **[April 2026]** - Presented at [AI meets Knowledge Graphs & Memory](https://luma.com/z5aztkqh) on knowledge graphs and LLMs in rare diseases.
-- **[January 2026]** - Featured in an ALS-TDI [blog post](https://www.als.net/news/2025-international-als-mnd-symposium/).
-- **[December 2025]** - Presented at the International Symposium for ALS/MND: *"Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England"*.
-- **[July 2025]** - *"Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association"* preprinted on [medRxiv](https://www.medrxiv.org/content/10.1101/2025.07.01.25330428v1).
-- **[May 2025]** - *"BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain"* accepted to [ACL Findings](https://2025.aclweb.org/program/find_papers/).
+- **[April 2026]** — The ALS Precision Discovery Consortium team advanced to *Round 1* of the [**Longitude Prize for ALS**](https://als.longitudeprize.org/discovery-award-teams).
+- **[April 2026]** — Gave a talk at [*AI meets Knowledge Graphs & Memory*](https://luma.com/z5aztkqh) on knowledge graphs and LLMs for rare disease.
+- **[January 2026]** — Highlighted in an ALS-TDI [blog post](https://www.als.net/news/2025-international-als-mnd-symposium/) covering the International ALS/MND Symposium.
+- **[December 2025]** — Presented at the International Symposium for ALS/MND: *Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England*.
+- **[July 2025]** — New [medRxiv](https://www.medrxiv.org/content/10.1101/2025.07.01.25330428v1) preprint comparing AI-, knowledge-graph–, and MND Association–derived phenotyping for early MND diagnosis across 67 million individuals in England.
+- **[May 2025]** — *BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in the Biomedical Domain* accepted to [ACL Findings](https://2025.aclweb.org/program/find_papers/).

@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="images/yusuf.png">
 
-Hi — I'm Yusuf, a PhD student in the Department of Biostatistics and Health Informatics at the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King's College London. I'm part of the [EPSRC Centre for Doctoral Training in Data-Driven Health](https://www.drive-health.org.uk/), co-funded by [LifeArc](https://www.lifearc.org/), and supervised by [Prof. Richard Dobson](https://www.kcl.ac.uk/people/richard-dobson), [Prof. Alfredo Iacoangeli](https://www.kcl.ac.uk/people/alfredo-iacoangeli), [Prof. Honghan Wu](https://www.gla.ac.uk/schools/healthwellbeing/staff/honghanwu/), [Dr Chris Tomlinson](https://profiles.ucl.ac.uk/80245-chris-tomlinson) and [Dr Zhi Yao](https://uk.linkedin.com/in/zhi-yao-a8960412).
+Hi — I'm Yusuf, a PhD student in the Department of Biostatistics and Health Informatics at the Institute of Psychiatry, Psychology & Neuroscience (IoPPN), King's College London. I'm pursuing a PhD in Machine Learning for Health. I'm part of the [EPSRC Centre for Doctoral Training in Data-Driven Health](https://www.drive-health.org.uk/), co-funded by [LifeArc](https://www.lifearc.org/), and supervised by [Prof. Richard Dobson](https://www.kcl.ac.uk/people/richard-dobson), [Prof. Alfredo Iacoangeli](https://www.kcl.ac.uk/people/alfredo-iacoangeli), [Prof. Honghan Wu](https://www.gla.ac.uk/schools/healthwellbeing/staff/honghanwu/), [Dr Chris Tomlinson](https://profiles.ucl.ac.uk/80245-chris-tomlinson) and [Dr Zhi Yao](https://uk.linkedin.com/in/zhi-yao-a8960412).
 
 ## Research
 

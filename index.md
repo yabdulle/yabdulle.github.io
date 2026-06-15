@@ -14,6 +14,8 @@ I build machine-learning systems for **rare and neurodegenerative disease**, wit
 
 My thesis is aiming to develop an end-to-end pipeline that fuses multimodal electronic health records, biomedical knowledge graphs, genomics to be able to execute on all the aforementioned downstream tasks. More broadly, I'm interested in the methodology that makes small-cohort rare-disease AI trustworthy: knowledge-graph reasoning with LLMs, multimodal representation learning and drug repurposing/target identification.
 
+I also build open-source tools for clinical data work — see [Projects](/projects/) for software like [icdlookup](https://github.com/yabdulle/icdlookup), a Python package for ICD-10 code lookup and annotation.
+
 ## News
 - **[April 2026]** — The ALS Precision Discovery Consortium team advanced to *Round 1* of the [**Longitude Prize for ALS**](https://als.longitudeprize.org/discovery-award-teams).
 - **[April 2026]** — Gave a talk at [*AI meets Knowledge Graphs & Memory*](https://luma.com/z5aztkqh) on knowledge graphs and LLMs for rare disease.

@@ -107,7 +107,9 @@ hr {
     margin: 0;
     display: inline-flex;
     align-items: center;
-    font-size: 14px;
+    font-family: "Instrument Serif", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-size: 16px;
+    letter-spacing: -0.01em;
 }
 
 .nav-list a {
@@ -213,7 +215,7 @@ hr {
     }
     .navbar-ul {
         gap: 14px;
-        font-size: 13.5px;
+        font-size: 15px;
     }
     .social-ul {
         gap: 14px;

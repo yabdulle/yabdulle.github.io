@@ -18,6 +18,8 @@ nav:
    link: "/publications/"
  - name: "Teaching & Talks"
    link: "/ta/"
+ - name: "Projects"
+   link: "/projects/"
  - name: "CV"
    link: "/cv.pdf"
 

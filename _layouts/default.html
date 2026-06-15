@@ -80,15 +80,30 @@
                 {% endif %}
                 <div class="navbar-top">
                     <a id="author-name" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-                    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">☾</button>
+                    <div class="navbar-actions">
+                        <button class="nav-toggle" id="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
+                            <span class="nav-toggle-bar"></span>
+                            <span class="nav-toggle-bar"></span>
+                            <span class="nav-toggle-bar"></span>
+                        </button>
+                        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">☾</button>
+                    </div>
                 </div>
-                <div class="navbar-bottom">
+                <div class="navbar-bottom" id="site-nav">
                     <ul id="navlist" class="navbar-ul">
                         {% for x in site.nav %}
                             {% if x.name == "Resume" or x.name == "CV" %}
-                                <li class="nav-list"><a target="_blank" rel="noopener" href="{{ x.link }}">{{ x.name }}</a></li>
+                                <li class="nav-list">
+                                    <a target="_blank" rel="noopener" href="{{ x.link }}">
+                                        <span class="nav-number">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>{{ x.name }}
+                                    </a>
+                                </li>
                             {% else %}
-                                <li class="nav-list"><a href="{{ x.link }}">{{ x.name }}</a></li>
+                                <li class="nav-list">
+                                    <a href="{{ x.link }}">
+                                        <span class="nav-number">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>{{ x.name }}
+                                    </a>
+                                </li>
                             {% endif %}
                         {% endfor %}
                     </ul>
@@ -180,6 +195,46 @@
                         setTheme(e.matches ? 'dark' : 'light');
                     });
                 }
+            }
+
+            const navToggle = document.getElementById('nav-toggle');
+            const siteNav = document.getElementById('site-nav');
+
+            function closeNavMenu() {
+                if (!navToggle || !siteNav) return;
+                navToggle.setAttribute('aria-expanded', 'false');
+                navToggle.setAttribute('aria-label', 'Open menu');
+                siteNav.classList.remove('is-open');
+                document.body.classList.remove('nav-open');
+            }
+
+            function openNavMenu() {
+                if (!navToggle || !siteNav) return;
+                navToggle.setAttribute('aria-expanded', 'true');
+                navToggle.setAttribute('aria-label', 'Close menu');
+                siteNav.classList.add('is-open');
+                document.body.classList.add('nav-open');
+            }
+
+            if (navToggle && siteNav) {
+                navToggle.addEventListener('click', () => {
+                    const isOpen = siteNav.classList.contains('is-open');
+                    if (isOpen) {
+                        closeNavMenu();
+                    } else {
+                        openNavMenu();
+                    }
+                });
+
+                siteNav.querySelectorAll('a').forEach((link) => {
+                    link.addEventListener('click', closeNavMenu);
+                });
+
+                window.addEventListener('resize', () => {
+                    if (window.innerWidth > 768) {
+                        closeNavMenu();
+                    }
+                });
             }
         })();
     </script>

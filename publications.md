@@ -6,7 +6,7 @@ permalink: /publications/
 ## Publications and Preprints
 
 ### Under Review:
-1. **Abdulle, Y**, Dinu, V., Wu, J., et al. "Symptom-based phenotype discovery in motor neuron disease using natural language processing of electronic health records" (2026)
+1. **Abdulle, Y**, Dinu, V., Wu, J., et al. ["Symptom-based phenotype discovery in motor neuron disease using natural language processing of electronic health records"](https://doi.org/10.64898/2026.06.18.26355960) (2026)
 
 2. Dong, H., Vasu, R., **Abdulle, Y**., et al. “ A Large Language Model based Framework for Dementia Related Hypothesis Generation“ (2026)
 

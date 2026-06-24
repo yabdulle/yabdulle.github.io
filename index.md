@@ -17,9 +17,10 @@ My thesis is aiming to develop an end-to-end pipeline that fuses multimodal elec
 I also build open-source tools for clinical data work — see [Projects](/projects/) for software like [icdlookup](https://github.com/yabdulle/icdlookup), a Python package for ICD-10 code lookup and annotation.
 
 ## News
+- **[June 2026]** - Paper titled [**"Symptom-based phenotype discovery in motor neuron disease using natural language processing of electronic health records"**](https://doi.org/10.64898/2026.06.18.26355960) out in preprint.
 - **[April 2026]** — The ALS Precision Discovery Consortium team advanced to *Round 1* of the [**Longitude Prize for ALS**](https://als.longitudeprize.org/discovery-award-teams).
-- **[April 2026]** — Gave a talk at [*AI meets Knowledge Graphs & Memory*](https://luma.com/z5aztkqh) on knowledge graphs and LLMs for rare disease.
-- **[January 2026]** — Highlighted in an ALS-TDI [blog post](https://www.als.net/news/2025-international-als-mnd-symposium/) covering the International ALS/MND Symposium.
-- **[December 2025]** — Presented at the International Symposium for ALS/MND: *Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England*.
+- **[April 2026]** — Gave a talk at [**AI meets Knowledge Graphs & Memory**](https://luma.com/z5aztkqh) on knowledge graphs and LLMs for rare disease.
+- **[January 2026]** — Highlighted in an ALS-TDI [**blog post**](https://www.als.net/news/2025-international-als-mnd-symposium/) covering the International ALS/MND Symposium.
+<!-- - **[December 2025]** — Presented at the International Symposium for ALS/MND: *Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England*.
 - **[July 2025]** — New [medRxiv](https://www.medrxiv.org/content/10.1101/2025.07.01.25330428v1) preprint comparing AI-, knowledge-graph–, and MND Association–derived phenotyping for early MND diagnosis across 67 million individuals in England.
-- **[May 2025]** — *BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in the Biomedical Domain* accepted to [ACL Findings](https://2025.aclweb.org/program/find_papers/).
+- **[May 2025]** — *BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in the Biomedical Domain* accepted to [ACL Findings](https://2025.aclweb.org/program/find_papers/). -->

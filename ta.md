@@ -16,7 +16,7 @@ Graduate Teaching Assistant at the Department of Biostatistics and Health Inform
 
 - **[April 2026]** - [AI meets Knowledge Graphs & Memory](https://luma.com/z5aztkqh) - slides [here.](slides/rare_disease_talk.pdf)
 
-- **[December 2025]** — MND Diagnosis \`Characteristics of Early Diagnoses, in England\` · Int. Symposium for ALS/MND 
+- **[December 2025]** — 'Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England' - International Symposium for ALS/MND.
 
 ## Tutorials
 

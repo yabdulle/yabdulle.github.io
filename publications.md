@@ -8,11 +8,13 @@ permalink: /publications/
 ### Under Review:
 1. **Abdulle, Y**, Dinu, V., Wu, J., et al. ["Symptom-based phenotype discovery in motor neuron disease using natural language processing of electronic health records"](https://doi.org/10.64898/2026.06.18.26355960) (2026)
 
-2. Dong, H., Vasu, R., **Abdulle, Y**., et al. “ A Large Language Model based Framework for Dementia Related Hypothesis Generation“ (2026)
+2. Anqi Jiang, Jiajing Hu, **Yusuf Abdulle**, Oliver Pain, Alfredo Iacoangeli. bioRxiv 2026.07.03.736387; doi: https://doi.org/10.64898/2026.07.03.736387
 
-3. **Abdulle Y^**., Wu J^., Budhdeo S., Kim Y., et al. Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association. medRxiv. 2025 Jan 1;2025.07.01.25330428. 
+3. Dong, H., Vasu, R., **Abdulle, Y**., et al. “ A Large Language Model based Framework for Dementia Related Hypothesis Generation“ (2026)
 
-4. Budhdeo, S., Zhang, J., **Abdulle, Y**.,(2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences* [version 1; peer review: 2 approved with reservations]. Wellcome Open Res 2025, 10:66 (https://doi.org/10.12688/wellcomeopenres.23599.1)
+4. **Abdulle Y^**., Wu J^., Budhdeo S., Kim Y., et al. Characteristics and Early Diagnosis of Motor Neuron Disease (MND) in 67 million individuals in England: a comparative study on phenotyping models derived by AI, Knowledge Graphs and the MND Association. medRxiv. 2025 Jan 1;2025.07.01.25330428. 
+
+5. Budhdeo, S., Zhang, J., **Abdulle, Y**.,(2023). *Scoping review of knowledge graph applications in biomedical and healthcare sciences* [version 1; peer review: 2 approved with reservations]. Wellcome Open Res 2025, 10:66 (https://doi.org/10.12688/wellcomeopenres.23599.1)
 
 
 ### Journal Papers

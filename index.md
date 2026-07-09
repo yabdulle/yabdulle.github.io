@@ -17,6 +17,7 @@ My thesis is aiming to develop an end-to-end pipeline that fuses multimodal elec
 I also build open-source tools for clinical data work — see [Projects](/projects/) for software like [icdlookup](https://github.com/yabdulle/icdlookup), a Python package for ICD-10 code lookup and annotation.
 
 ## News
+- **[July 2026]** - Collaborative work titled [**"An Integrated Knowledge Graph and Network Medicine Pipeline for Drug Repurposing: Benchmarking Across Human Diseases and Application to Amyotrophic Lateral Sclerosis"**](https://www.biorxiv.org/content/10.64898/2026.07.03.736387v1) out in preprint.
 - **[June 2026]** - Paper titled [**"Symptom-based phenotype discovery in motor neuron disease using natural language processing of electronic health records"**](https://doi.org/10.64898/2026.06.18.26355960) out in preprint.
 - **[April 2026]** — The ALS Precision Discovery Consortium team advanced to *Round 1* of the [**Longitude Prize for ALS**](https://als.longitudeprize.org/discovery-award-teams).
 - **[April 2026]** — Gave a talk at [**AI meets Knowledge Graphs & Memory**](https://luma.com/z5aztkqh) on knowledge graphs and LLMs for rare disease.

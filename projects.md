@@ -4,8 +4,6 @@ permalink: /projects/
 title: Projects
 ---
 
-## Projects
-
 Open-source tools and software I've built alongside my research.
 
 ### [icdlookup](https://github.com/yabdulle/icdlookup)

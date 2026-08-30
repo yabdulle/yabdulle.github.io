@@ -195,7 +195,7 @@ hr {
     border-radius: 50%;
     background: #ffffff;
     color: #111111;
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     display: inline-flex;
     align-items: center;
@@ -205,7 +205,7 @@ hr {
 
 .theme-toggle:hover {
     transform: translateY(-1px);
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.14), 0 8px 10px -6px rgb(0 0 0 / 0.12);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.14), 0 8px 10px -6px rgba(0, 0, 0, 0.12);
 }
 
 .theme-toggle svg {
@@ -227,7 +227,7 @@ hr {
 }
 
 [data-theme="dark"] .theme-toggle {
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.45), 0 8px 10px -6px rgb(0 0 0 / 0.35);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.45), 0 8px 10px -6px rgba(0, 0, 0, 0.35);
 }
 
 /*

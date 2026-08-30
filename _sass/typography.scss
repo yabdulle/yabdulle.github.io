@@ -193,6 +193,19 @@
     margin: 0;
 }
 
+.news-org {
+    white-space: nowrap;
+}
+
+.band-main .news-logo {
+    display: inline-block;
+    height: 0.9em;
+    width: auto;
+    max-width: none;
+    vertical-align: -0.12em;
+    margin-left: 0.28em;
+}
+
 .ledger {
     list-style: none;
     margin: 48px 0 0;

@@ -85,11 +85,17 @@ hr {
     gap: 48px;
 }
 
+.hero-identity {
+    flex: 1;
+    min-width: 0;
+}
+
 .hero-top {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
     gap: 16px;
+    width: 100%;
 }
 
 .site-title {
@@ -300,7 +306,13 @@ hr {
 @media (max-width: 900px) {
     .hero {
         flex-direction: column;
+        align-items: stretch;
         gap: 32px;
+        width: 100%;
+    }
+
+    .hero-identity {
+        width: 100%;
     }
 
     .site-nav {
@@ -338,21 +350,24 @@ hr {
 
     .navbar-actions {
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         justify-content: flex-end;
+        margin-left: auto;
+        flex-shrink: 0;
     }
 
     .hero-top {
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         justify-content: space-between;
         gap: 16px;
+        width: 100%;
     }
 
     .nav-toggle {
         display: inline-flex;
         align-items: center;
-        margin: 0;
+        margin: 0 -0.16em 0 0;
         padding: 0;
         border: 0;
         background: none;
@@ -364,6 +379,8 @@ hr {
         text-transform: uppercase;
         color: var(--mute);
         line-height: 1;
+        /* sit on the name's first-line cap height, not the vertical centre */
+        padding-top: 0.35em;
     }
 
     .nav-toggle:hover,

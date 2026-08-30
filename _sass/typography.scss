@@ -197,13 +197,34 @@
     white-space: nowrap;
 }
 
+.band-main .org-logo,
 .band-main .news-logo {
     display: inline-block;
-    height: 0.9em;
+    height: 0.95em;
     width: auto;
     max-width: none;
-    vertical-align: -0.12em;
-    margin-left: 0.28em;
+    vertical-align: -0.14em;
+    margin-left: 0.3em;
+}
+
+.band-main .org-logo-box {
+    height: 1.15em;
+    width: 1.15em;
+    object-fit: cover;
+    border-radius: 2px;
+    vertical-align: -0.22em;
+    outline: 1px solid var(--line);
+}
+
+.band-main .org-logo-wordmark {
+    height: 1.25em;
+    width: auto;
+    vertical-align: -0.28em;
+    margin-left: 0.2em;
+}
+
+[data-theme="dark"] .org-logo-wordmark {
+    filter: invert(1);
 }
 
 .ledger {

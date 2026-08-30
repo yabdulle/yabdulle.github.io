@@ -24,4 +24,4 @@ icdlookup.search("cholera")
 # → [("A00", "cholera"), ("A00.0", "cholera due to ..."), ...]
 ```
 
-[GitHub](https://github.com/yabdulle/icdlookup) · [PyPI](https://pypi.org/project/icdlookup/)
+[GitHub](https://github.com/yabdulle/icdlookup){% include logo.html src="/images/orgs/github.svg" %} · [PyPI](https://pypi.org/project/icdlookup/){% include logo.html src="/images/orgs/pypi.svg" %}

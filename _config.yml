@@ -1,5 +1,7 @@
 title: Yusuf Abdulle
 url: "https://yabdulle.github.io"
+og_image: "https://yabdulle.github.io/images/yusuf.png"
+twitter_image: "https://yabdulle.github.io/images/yusuf.png"
 
 markdown: kramdown
 kramdown:
